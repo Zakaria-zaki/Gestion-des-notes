@@ -1,13 +1,14 @@
 <?php
-  $active='Acceuil'; 
   include("includes/db.php");
+  include("includes/header.php");
     
 ?>
 
 <div class="container"><!-- container Begin -->
-       
+ 
+ <h1>Index</h1>      
 <?php
-  include("formulaire.php") 
+  include("Formulaire.php") 
  ?>
 
 
