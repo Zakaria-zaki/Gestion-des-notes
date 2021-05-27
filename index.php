@@ -6,11 +6,12 @@
 
 <div class="container"><!-- container Begin -->
  
- <h1>Index</h1>      
-<?php
+ <h1>Veuillez Saisir vous notes et matiere SVP</h1>   
+
+<!-- <?php
   include("Formulaire.php") 
  ?>
-
+ -->
 
 
 
@@ -23,8 +24,14 @@
 
 <script src="js/jquery-331.min.js"></script>
 <script src="js/bootstrap-337.min.js"></script>
+<script type="js/formulaire.js"></script>
 
 
 
 </body>
 </html>
+
+
+
+
+
