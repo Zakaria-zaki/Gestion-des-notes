@@ -6,16 +6,17 @@
 
 <div class="container"><!-- container Begin -->
  
- <h1>Veuillez Saisir vous notes et matiere SVP</h1>   
+ <h1>Veuillez Saisir vous notes et matiere </h1>   
+ <br>
 
-<!-- <?php
-  include("Formulaire.php") 
+<?php
+ include("Formulaire.php");
+ if (isset($_POST['submit'])){   header("moyenne.php");   }
  ?>
- -->
 
 
 
-
+	
 
 
 </div><!-- Top Finish -->
