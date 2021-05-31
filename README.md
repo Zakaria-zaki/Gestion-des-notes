@@ -1,3 +1,4 @@
+#Test 
 # gestion-des-notes
 Application de gestion des notes des étudiants
 
@@ -20,3 +21,5 @@ Il est recommandé :
 
 Le travail à rendre doit comporter tous les fichiers nécessaires à la prise en main du projet, 
 essentiellement le code source et le script de la base de données.
+##Base de données 
+j'ai mis un dossier Databases qui contient la base de données vide et une autres remplis.
