@@ -4,7 +4,7 @@
 Application de gestion des notes des étudiants
 
 ## Membres du groupe
-Zakaria ATTAOUI 
+ Zakaria ATTAOUI 
 
 ## Objectif
 le projet consiste a créer un système de gestion de notes des étudiants d’un établissement scolaire.
